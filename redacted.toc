@@ -1,5 +1,5 @@
-## Interface: 11404
-## Title: redacted
+## Interface: 11500
+## Title: redactedcFF00FF00 v1.0.0|r
 ## Author: Knasig
 ## Version: 1.0
 ## Notes: redacted things.
