@@ -3,5 +3,3 @@
 ## Author: Knasig
 ## Version: 1.0
 ## Notes: redacted things.
-
-print()
